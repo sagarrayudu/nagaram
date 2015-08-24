@@ -4,7 +4,7 @@ CMS for local bodies in India
 This is free and open source
 
 Here's what I think it should include:
-
+Git work flow
 name of the projects and all sub-modules and libraries (sometimes they are named different and very confusing to new users)
 descriptions of all the project, and all sub-modules and libraries
 5-line code snippet on how its used (if it's a library)
